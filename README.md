@@ -7,8 +7,8 @@
 
 Polytechnic student at [MBOU Bobrovsky OC "Leader" named after A.V. Gordeev](https://vk.com/club180888933). Java intern developer with passion for hackathons, AAA videogames and cycling. Fascinated by everything that's .NET related. Proudly from [Voronezh, Russia](https://goo.gl/maps/cCJ1wm4rjbpMRgNm9).
 
-- 🔭 I’m currently studying **Polytech** at *[Leader](https://vk.com/club180888933)*
-- 🌱 I’m currently learning **МЕТА** at *[Sirius.IS](https://sirius-systems.ru/)*
+- 🔭 I’m currently studying **Polytech** at [Leader](https://vk.com/club180888933)
+- 🌱 I’m currently learning **МЕТА** at [Sirius.IS](https://sirius-systems.ru/)
 - ⚙️ Mastering: `.cs`, `.xaml`, `.java`, `.class`, `jar`,  `.js`, `.html`, `.css`, `.cpp`, `.h`
 - 👯 I’m looking to collaborate on **Open Source** projects
 - 💬 I'm mostly active within the **.NET Core**, **Arduino** and **VKUI** communities
