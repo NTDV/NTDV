@@ -1,7 +1,7 @@
 # Hello, I'm Danila Valkovets 👋
 
 ![C#](https://img.shields.io/badge/Favorite%20language-C%23-%2367217a)
-![Java](https://img.shields.io/badge/Now%20using-Java%20SE-%23fc790a)
+![Java](https://img.shields.io/badge/Current%20stack-Java%20SE-%23fc790a)
 ![React](https://img.shields.io/badge/Sometimes%20use-React-yellow)
 ![Arduino](https://img.shields.io/badge/Getting%20fun-Arduino-%2300979D)
 
