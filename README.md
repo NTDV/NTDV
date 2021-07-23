@@ -11,7 +11,7 @@ Polytechnic student at [MBOU Bobrovsky OC "Leader" named after A.V. Gordeev](htt
 - 🌱 I’m currently learning **МЕТА** at [Sirius.IS](https://sirius-systems.ru/)
 - ⚙️ Mastering: `.cs`, `.xaml`, `.java`, `.class`, `jar`,  `.js`, `.html`, `.css`, `.cpp`, `.h`
 - 👯 I’m looking to collaborate on **Open Source** projects
-- 💬 I'm mostly active within the **.NET Core**, **Arduino** and **VKUI** communities
+- 💬 I'm mostly active within the **.NET**, **Arduino** and **Telegram** communities
 
 ## 📬 Get in Touch
 
