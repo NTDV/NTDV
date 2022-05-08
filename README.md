@@ -16,7 +16,7 @@
 Polytechnic student at the [Educational Center "Leader" named after A.V. Gordeev](https://goo.gl/maps/MiGgzH7tsPS52xAT9). Java developer with passion for hackathons, AAA videogames and cycling. Prize winner in three different physics and one engineering scince Olympiads. Proudly from [Voronezh, Russia](https://goo.gl/maps/cCJ1wm4rjbpMRgNm9).
 
 - 🎓 On my way to [HSE](https://www.hse.ru/en/)
-- 💻 Have been working at [Complex Systems](https://www.complex-systems.biz/) for **1** year
+- 💻 I have been working at [Complex Systems](https://www.complex-systems.biz/) for **1** year
 - 🛠 Mastering: `.java`, `.class`, `.jar`,  `.js`, `.html`, `.css`, `.cs`, `.xaml`, `.py`, `.cpp`, `.h`
 - 👯 Looking to collaborate on **Open Source** projects
 - 💬 Most active in the **Arduino** and **Telegram** communities
