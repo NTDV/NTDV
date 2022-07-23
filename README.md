@@ -16,7 +16,7 @@
 [Educational Center "Leader" named after A.V. Gordeev](https://goo.gl/maps/MiGgzH7tsPS52xAT9) school graduate. Java developer with passion for hackathons, AAA videogames and cycling. Prize winner in three different physics and one engineering scince Olympiads. Proudly from [Voronezh, Russia](https://goo.gl/maps/cCJ1wm4rjbpMRgNm9).
 
 - 🎓 On my way to [MEPHI](https://en.wikipedia.org/wiki/National_Research_Nuclear_University_MEPhI_(Moscow_Engineering_Physics_Institute))
-- 💻 I have been working at [Complex Systems](https://www.complex-systems.biz/) for **1** year
+- 💻 I have been working at [Complex Systems](https://www.complex-systems.biz/) for **1** year as Full stack developer
 - 🛠 Mastering: `.java`, `.class`, `.jar`,  `.js`, `.html`, `.css`, `.cs`, `.xaml`, `.py`, `.cpp`, `.h`
 - 👯 Looking to collaborate on **Open Source** projects
 - 💬 Most active in the **Arduino** and **Telegram** communities
@@ -26,6 +26,7 @@
 - GitHub: [github.com/ntdv](https://github.com/ntdv)
 - VK: [vk.com/danila_valkovets](https://vk.com/danila_valkovets)
 - E-mail: [dahnh33@gmail.com](mailto:dahnh33@gmail.com)
+- LinkedIn: [linkedin.com/in/ntdv](https://www.linkedin.com/in/ntdv/?locale=en_US)
 
 ## 📚 Looking for my Resume? Contact me!
 
