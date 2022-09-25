@@ -30,4 +30,4 @@
 
 ## 📚 Looking for my Resume? Contact me!
 
-![Danila's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntdv&layout=compact&hide_border=true&theme=nord&langs_count=10&)
+![Danila's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntdv&layout=compact&hide_border=true&theme=nord&langs_count=10&exclude_repo=agrosmart)
