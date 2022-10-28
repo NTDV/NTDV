@@ -23,9 +23,9 @@ Java developer with passion for hackathons, AAA videogames and cycling. Prize wi
 
 ## 📬 Get in Touch
 
-- GitHub: [github.com/ntdv](https://github.com/ntdv)
-- VK: [vk.com/danila_valkovets](https://vk.com/danila_valkovets)
 - E-mail: [dahnh33@gmail.com](mailto:dahnh33@gmail.com)
+- Telegram: [t.me/DancihVolk](https://t.me/DanichVolk)
+- GitHub: [github.com/ntdv](https://github.com/ntdv)
 - LinkedIn: [linkedin.com/in/ntdv](https://www.linkedin.com/in/ntdv/?locale=en_US)
 
 ## 📚 Looking for my Resume?
