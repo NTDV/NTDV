@@ -32,6 +32,6 @@ Java developer with passion for hackathons, AAA videogames and cycling. Prize wi
 - English: [Resume](https://github.com/NTDV/NTDV/blob/main/Resume.pdf)
 - Русский: [Резюме](https://github.com/NTDV/NTDV/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5.pdf)
 
-![Danila's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntdv&layout=compact&hide_border=true&theme=nord&langs_count=10&exclude_repo=agrosmart)
+![Danila's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntdv&layout=compact&hide_border=true&theme=nord&langs_count=10&exclude_repo=agrosmart&hide=typescript)
 
 [![codewars](https://www.codewars.com/users/NTDV/badges/large)](https://www.codewars.com/users/NTDV)
