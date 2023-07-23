@@ -16,8 +16,8 @@
 Java developer with passion for hackathons, AAA videogames and cycling. Prize winner in three different physics and one engineering scince Olympiads. Proudly from [Voronezh, Russia](https://goo.gl/maps/cCJ1wm4rjbpMRgNm9).
 
 - 🎓 Software engineering [MEPHI](https://en.wikipedia.org/wiki/National_Research_Nuclear_University_MEPhI_(Moscow_Engineering_Physics_Institute)) student
-- 💻 I have been working at [Complex Systems](https://csc.ru/) for **1** year as Full stack developer
-- 🛠 Mastering: `.java`, `.class`, `.jar`,  `.js`, `.html`, `.css`, `.cs`, `.xaml`, `.py`, `.cpp`, `.h`
+- 💻 I have been working at [Complex Systems](https://csc.ru/) for **2** years as Full stack developer
+- 🛠 Mastering: `.java`, `.class`, `.jar`,  `.js`, `.html`, `.css`, `.c`, `.cpp`, `.h`
 - 👯 Looking to collaborate on **Open Source** projects
 - 💬 Most active in the **Arduino** and **Telegram** communities
 
